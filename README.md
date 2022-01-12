@@ -1,3 +1,3 @@
 # Droppers
 
-Here you will find Gootloader Jscript malware droppers. Use at your own risk.
+Here you will find Gootloader/Gootkit Jscript malware droppers. Use at your own risk.
